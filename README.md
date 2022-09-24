@@ -2,7 +2,7 @@
 
 Email newsletter sign up page.
 
-This page signs you up for my weekly newsletter where I send news about the latest blogs I have posted on https://alexandrumihalache.com/.
+This page signs you up for my weekly newsletter where I send news about the latest blogs I have posted on [Alexandru Mihalache](https://alexandrumihalache.com/).
 
 Technologies and languages used:
 
@@ -14,4 +14,4 @@ Technologies and languages used:
 - Express.js
 - Mailchimp API
 
-To sign up for the newsletter, please visit https://enigmatic-depths-07660.herokuapp.com/.
+To sign up for the newsletter, please visit this [page](https://enigmatic-depths-07660.herokuapp.com/).
