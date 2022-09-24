@@ -13,3 +13,5 @@ Technologies and languages used:
 - Node.js
 - Express.js
 - Mailchimp API
+
+To sign up for the newsletter, please visit https://enigmatic-depths-07660.herokuapp.com/.
