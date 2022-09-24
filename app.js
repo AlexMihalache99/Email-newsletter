@@ -1,4 +1,3 @@
-const API_KEY = "656a817fe246631b48991b7d10ef7ab3-us8";
 const ID = "e7857db40d";
 const express = require("express");
 const bodyParser = require("body-parser");
@@ -37,7 +36,7 @@ app.post("/", function(req, res){
     const url = "https://us8.api.mailchimp.com/3.0/lists/" + ID;
     const options = {
         method: "POST",
-        auth: "alexboss:656a817fe246631b48991b7d10ef7ab3-us8"
+        auth: "alexboss:"
     }
 
     const request = https.request(url, options, function(response){
