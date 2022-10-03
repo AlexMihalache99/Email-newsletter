@@ -15,3 +15,7 @@ Technologies and languages used:
 - Mailchimp API
 
 To sign up for the newsletter, please visit this [page](https://enigmatic-depths-07660.herokuapp.com/).
+
+<hr>
+
+If you like this project, please consider giving it a star⭐! Would help me a lot!
